@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@import "@heroui/styles";
+
+:root {
+    --font-cairo: "Cairo", sans-serif;
+}
+
+body {
+    font-family: var(--font-cairo);
+}
